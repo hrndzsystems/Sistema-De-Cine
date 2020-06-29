@@ -1,0 +1,7 @@
+// SISTEMA DE PAGOS FAMILIAR
+Nombre: Emilio Alonzo Hernandez Hernandez
+Grupo: ISCO3AA
+Fecha: 29/06/20
+Escuela: Universidad UCAD
+Profesor: Daniel Fernando Reyes 
+https://x.thunkable.com/projects/5ef97167f6d3658ef61e05b7
